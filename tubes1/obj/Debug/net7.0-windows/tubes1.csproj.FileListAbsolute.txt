@@ -1,0 +1,47 @@
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\bin\Debug\net7.0-windows\tubes1.exe
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\bin\Debug\net7.0-windows\tubes1.deps.json
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\bin\Debug\net7.0-windows\tubes1.runtimeconfig.json
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\bin\Debug\net7.0-windows\tubes1.dll
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\bin\Debug\net7.0-windows\tubes1.pdb
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.csproj.AssemblyReference.cache
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.Form1.resources
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.galang_dana.resources
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.hasil_donasi.resources
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.hasil_galang_dana.resources
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.login.resources
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.menu.resources
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.pembayaran_donasi.resources
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.pembayaran_galang_dana.resources
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.Properties.Resources.resources
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.csproj.GenerateResource.cache
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.AssemblyInfoInputs.cache
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.AssemblyInfo.cs
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.csproj.CoreCompileInputs.cache
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.dll
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\refint\tubes1.dll
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.pdb
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.genruntimeconfig.cache
+C:\Users\deder\Downloads\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\ref\tubes1.dll
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\bin\Debug\net7.0-windows\tubes1.exe
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\bin\Debug\net7.0-windows\tubes1.deps.json
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\bin\Debug\net7.0-windows\tubes1.runtimeconfig.json
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\bin\Debug\net7.0-windows\tubes1.dll
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\bin\Debug\net7.0-windows\tubes1.pdb
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.galang_dana.resources
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.login.resources
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.menu.resources
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.pembayaran_donasi.resources
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.pembayaran_galang_dana.resources
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.Properties.Resources.resources
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.csproj.GenerateResource.cache
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.AssemblyInfoInputs.cache
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.AssemblyInfo.cs
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.dll
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\refint\tubes1.dll
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.pdb
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\tubes1.genruntimeconfig.cache
+C:\Users\User\Dropbox\PC\Documents\semester 6\tubes kpl\tubes1\tubes1\tubes1\tubes1\obj\Debug\net7.0-windows\ref\tubes1.dll

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="donasi\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="hasil_galang_dana.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="hasil_donasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pembayaran_galang_dana.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="galang_dana.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pembayaran_donasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tubes1\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tubes1\galang_dana.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tubes1\hasil_donasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tubes1\hasil_galang_dana.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tubes1\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tubes1\menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tubes1\pembayaran_donasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tubes1\pembayaran_galang_dana.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
